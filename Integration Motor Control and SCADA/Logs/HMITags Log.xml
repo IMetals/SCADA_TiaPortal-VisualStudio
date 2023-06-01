@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="HMITags Log.xml" projectName="D:\HMITags.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Error" dateTime="4:16:30 PM">
+    <Message>Error found while loading file D:\HMITags.xlsx, the file may be in use or read-only.</Message>
+  </LogEntry>
+</LogFile>

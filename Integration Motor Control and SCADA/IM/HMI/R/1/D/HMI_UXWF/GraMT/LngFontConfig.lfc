@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HMIMTFontConfig>
+  <LanguageFonts>
+    <LanguageFont LCID="1033" FontName="Tahoma" FontSize="13" Italic="0" Underline="0" Bold="0" Strikeout="0" />
+  </LanguageFonts>
+  <Information Creator="SIEMENS AG" Company="SIEMENS AG" Version="6.2" />
+</HMIMTFontConfig>

@@ -1,0 +1,16 @@
+E:\SCADA\VS_Project\Motor_Control\Motor_Control\bin\Debug\Motor_Control.exe.config
+E:\SCADA\VS_Project\Motor_Control\Motor_Control\bin\Debug\Motor_Control.exe
+E:\SCADA\VS_Project\Motor_Control\Motor_Control\bin\Debug\Motor_Control.pdb
+E:\SCADA\VS_Project\Motor_Control\Motor_Control\bin\Debug\S7.Net.dll
+E:\SCADA\VS_Project\Motor_Control\Motor_Control\obj\Debug\Motor_Control.csproj.AssemblyReference.cache
+E:\SCADA\VS_Project\Motor_Control\Motor_Control\obj\Debug\Motor_Control.csproj.SuggestedBindingRedirects.cache
+E:\SCADA\VS_Project\Motor_Control\Motor_Control\obj\Debug\Motor_Control.Main.resources
+E:\SCADA\VS_Project\Motor_Control\Motor_Control\obj\Debug\Motor_Control.Properties.Resources.resources
+E:\SCADA\VS_Project\Motor_Control\Motor_Control\obj\Debug\Motor_Control.csproj.GenerateResource.cache
+E:\SCADA\VS_Project\Motor_Control\Motor_Control\obj\Debug\Motor_Control.csproj.CoreCompileInputs.cache
+E:\SCADA\VS_Project\Motor_Control\Motor_Control\obj\Debug\Motor_Control.csproj.CopyComplete
+E:\SCADA\VS_Project\Motor_Control\Motor_Control\obj\Debug\Motor_Control.exe
+E:\SCADA\VS_Project\Motor_Control\Motor_Control\obj\Debug\Motor_Control.pdb
+E:\SCADA\VS_Project\Motor_Control\Motor_Control\obj\Debug\Motor_Control.Motor_FacePlate.resources
+E:\SCADA\VS_Project\Motor_Control\Motor_Control\obj\Debug\Motor_Control.Trends.resources
+E:\SCADA\VS_Project\Motor_Control\Motor_Control\obj\Debug\Motor_Control.Alarms.resources

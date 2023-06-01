@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <variable name="WebNavigatorRT.EventLogSessionStartStop">0</variable>
+  <variable name="WebNavigatorRT.LogSessionStartStop" />
+  <variable name="WebNavigatorRT.DisableLocalGroups">0</variable>
+  <variable name="WinCCViewer.EnhancedUI">1</variable>
+  <variable name="WebNavigatorRT.MaxSessions">150</variable>
+  <variable name="WebNavigatorRT.MaxTabs">3</variable>
+  <variable name="WebNavigatorRT.NoInputCursor" />
+  <variable name="WebNavigatorRT.AllowWebUX">1</variable>
+</data>
